@@ -75,8 +75,8 @@ const Home = ({ navigation }) => {
                 longitude: 110.35632207358996,
             },
             courier: {
-                avatar: images.avatar_1,
-                name: "cafe"
+                avatar: images.RabbitHouse,
+                name: "Rabbit House"
             },
             menu: [
                 {
@@ -118,8 +118,8 @@ const Home = ({ navigation }) => {
                 longitude: 110.35504616746915,
             },
             courier: {
-                avatar: images.avatar_2,
-                name: "nuocngot"
+                avatar: images.RabbitHouse,
+                name: "Rabbit House"
             },
             menu: [
                 {
@@ -169,8 +169,8 @@ const Home = ({ navigation }) => {
                 longitude: 110.34261833833622,
             },
             courier: {
-                avatar: images.avatar_3,
-                name: "anvat"
+                avatar: images.RabbitHouse,
+                name: "Rabbit House"
             },
             menu: [
                 {
@@ -212,8 +212,8 @@ const Home = ({ navigation }) => {
                 longitude: 110.35482523764315,
             },
             courier: {
-                avatar: images.avatar_4,
-                name: "banhmy"
+                avatar: images.RabbitHouse,
+                name: "Rabbit House"
             },
             menu: [
                 {
@@ -247,8 +247,8 @@ const Home = ({ navigation }) => {
                 longitude: 110.34743759630511,
             },
             courier: {
-                avatar: images.avatar_4,
-                name: "com"
+                avatar: images.RabbitHouse,
+                name: "Rabbit House"
             },
             menu: [
                 {
@@ -282,8 +282,8 @@ const Home = ({ navigation }) => {
                 longitude: 110.34743759630511,
             },
             courier: {
-                avatar: images.avatar_4,
-                name: "snack"
+                avatar: images.RabbitHouse,
+                name: "Rabbit House"
             },
             menu: [
                 {

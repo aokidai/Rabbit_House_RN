@@ -1,5 +1,7 @@
 import { cos } from "react-native-reanimated";
 
+const RabbitHouse = require("../assets/images/RabbitHouse.jpg");
+
 const avatar_1 = require("../assets/images/avatar-1.jpg");
 const avatar_2 = require("../assets/images/avatar-2.jpg");
 const avatar_3 = require("../assets/images/avatar-3.jpg");
@@ -22,7 +24,9 @@ const sakura = require("../assets/images/sakura.jpg");
 const comnhat = require("../assets/images/comnhat.png");
 const khoai = require("../assets/images/khoai.jpg");
 const nc7up = require("../assets/images/7up.jpg");
+
 export default {
+    RabbitHouse,
     avatar_1,
     avatar_2,
     avatar_3,

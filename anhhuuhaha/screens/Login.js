@@ -51,6 +51,7 @@ const Login=({navigation})=>
             })
             if(flag ==0)
                 alert("Sai Username hoặc Password!!!");
+                console.log("!!!!!!!!!!!!!!!!!!!")
         })
     }
 
